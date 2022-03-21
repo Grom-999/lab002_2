@@ -1,7 +1,7 @@
 #include<iostream>
 #include<string>
 int main(){
-	//comment
+	//коментарий
 	std::string name;
 	std::cin >> name;
 	std::cout<<"hello world from "<<name<<std::endl;
